@@ -44,7 +44,7 @@ DevOps 전문가로 성장하고자 합니다.
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,notion" alt="Git, GitHub, GitAction, Figma, Notin, " />
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,notion, firebase" alt="Git, GitHub, GitAction, Figma, Notin, firebase" />
         </br>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,grafana,prometheus" alt="VS Code,Visual Studio, Idea, Postman, Grafana,prometheus, " />
         </br>
