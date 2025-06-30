@@ -6,18 +6,14 @@
 
 ### 🖋️ SUMMARY
 
-Spring Boot와 AWS 기반의 백엔드 개발을 중심으로, 클라우드 환경에서의 안정적인 서비스 운영을 목표로 역량을 쌓고 있습니다.  
-Redis를 활용한 캐싱, S3 기반 정적 리소스 처리, Docker·Nginx를 이용한 무중단 배포 등 다양한 실무 경험을 통해 서비스  
-아키텍처와 운영 환경에 대한 감각을 키워왔습니다.
+저는 Spring Boot와 AWS 기반의 백엔드 개발을 주축으로, Redis를 활용한 서비스 캐싱과 S3를 이용한 정적  
+리소스 관리를 수행했으며, Docker와 Nginx를 활용한 무중단 배포 경험을 쌓았습니다. 
 
-현재는 단순한 개발을 넘어 인프라 자동화, 모니터링, 운영 최적화까지 아우를 수 있는 DevOps 엔지니어를 목표로 학습과 실습을 병행하고 있으며,  
-CI/CD 파이프라인 구축, 시스템 가시성 확보, 무중단 배포 전략 등에 대한 이해를 바탕으로 개발과 운영의 경계를 허무는 역할을 지향하고 있습니다.
-
-앞으로는 대규모 트래픽 환경에서도 안정성과 확장성을 보장할 수 있는 시스템을 설계하고 운영할 수 있는 역량을 갖춘  
-DevOps 전문가로 성장하고자 합니다.
+현재는 GitHub Actions를 이용해 CI/CD 파이프라인을 자동화하고, Prometheus와 Grafana 학습을 통해  
+시스템 가시성을 확보하는 작업을 진행 중이며, 앞으로는 Terraform 등을 활용한 인프라 코드 관리와  
+Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지니어로 성장하고자 합니다.
 
 <br>
-
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 <table>
   <tr>
