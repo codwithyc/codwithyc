@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile+;I+Am+A+Backend+Developer;I+Hava+5+Years+Of+Experiences)](https://git.io/typing-svg)
 
-### 🖋️ SUMMARY
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Summary</h3>
 
 저는 Spring Boot와 AWS 기반의 백엔드 개발을 주축으로, Redis를 활용한 서비스 캐싱과 S3를 이용한 정적  
 리소스 관리를 수행했으며, Docker와 Nginx를 활용한 무중단 배포 경험을 쌓았습니다. 
