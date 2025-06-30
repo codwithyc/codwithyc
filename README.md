@@ -25,8 +25,6 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
 
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Skills</h3>
-
-<br>
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 <table>
   <tr>
