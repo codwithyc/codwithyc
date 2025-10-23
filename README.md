@@ -35,12 +35,12 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
   <tr>
     <td align="center">
       <div style="display: flex; gap: 8px; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-        <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" />
+        <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" />
+        <img src="https://skillicons.dev/icons?i=gradle&theme=light" alt="Gradle" />
         <br>
-        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" />
-        <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" />
+        <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="rabbitmq" />
+        <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="elasticsearch" />
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       </div>
   </td>
