@@ -13,9 +13,12 @@
 시스템 가시성을 확보하는 작업을 진행 중이며, 앞으로는 Terraform 등을 활용한 인프라 코드 관리와  
 Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지니어로 성장하고자 합니다.
 
-<h3 align="left">🎓 Education & Training</h3>
+<h3 align="left">🎓 Education</h3>
 
 - 광주소프트웨어 마이스터고등학교`(2021.03 – 2024.01)`
+
+<h3 align="left">🏃🏻‍♂️ Training</h3>
+
 - LG 유플러스 유레카 SW 교육과정`(2024.06 - 2024.12)`
 
 <h3 align="left">💼 Work Experience</h3>
