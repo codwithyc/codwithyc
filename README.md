@@ -23,7 +23,7 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
 
 <h3 align="left">💼 Work Experience</h3>
 
-- 에티포스 (Ettifos) — 네트워크 엔지니어 인턴 `(2023.11 - 2024.01)`
+- 에티포스 (Ettifos) — 네트워크 엔지니어 현장실습생 `(2023.11 - 2024.01)`
 - 마스터웨이 (Masterway) - 백엔드 개발자 정규직 `(2025.05 - ing)`
 
 
