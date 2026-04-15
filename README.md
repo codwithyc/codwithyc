@@ -66,7 +66,7 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
 </table>
 </div>
 
-<h3 align="left">🛠️ Tools</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tools</h3>
 <div align="center">
 <table>
   <tr>
