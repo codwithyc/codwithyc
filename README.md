@@ -37,7 +37,7 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,go&theme=light" alt="Java, Go" />
+      <img src="https://skillicons.dev/icons?i=java,go,python&theme=light" alt="Java, Go, Python" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=spring,flask&theme=light" alt="Spring, Flask" />
@@ -54,7 +54,7 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
   <tr>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" alt="PostgreSQL, MongoDB, Redis" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch&theme=light" alt="RabbitMQ, Elasticsearch" />
