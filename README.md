@@ -28,44 +28,83 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
 
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Skills</h3>
-<div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="300"><strong>Backend</strong></td>
-    <td align="center" width="300"><strong>Database</strong></td>
-    <td align="center" width="400"><strong>Tools</strong></td>
+    <td align="center" width="300"><strong>Languages</strong></td>
+    <td align="center" width="300"><strong>Backend Frameworks</strong></td>
+    <td align="center" width="300"><strong>Build</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <div style="display: flex; gap: 8px; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
-        <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" />
-        <img src="https://skillicons.dev/icons?i=gradle&theme=light" alt="Gradle" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="rabbitmq" />
-        <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="elasticsearch" />
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      </div>
-  </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mongodb,redis" alt="MongoDB, redis" />
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=java,go&theme=light" alt="Java, Go" />
     </td>
     <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,notion,firebase" alt="Git, GitHub, GitAction, Figma, Notin, firebase" />
-        </br>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,grafana,prometheus" alt="VS Code,Visual Studio, Idea, Postman, Grafana,prometheus, " />
-        </br>
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="37" height="37" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=spring,flask&theme=light" alt="Spring, Flask" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gradle&theme=light" alt="Gradle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300"><strong>Database & Cache</strong></td>
+    <td align="center" width="300"><strong>Messaging & Search</strong></td>
+    <td align="center" width="300"><strong>Web Server</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch&theme=light" alt="RabbitMQ, Elasticsearch" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
     </td>
   </tr>
 </table>
+</div>
+
+<h3 align="left">🛠️ Tools</h3>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300"><strong>Version Control & CI/CD</strong></td>
+    <td align="center" width="300"><strong>Development Tools</strong></td>
+    <td align="center" width="300"><strong>Design & Docs</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions&theme=light" alt="Git, GitHub, GitLab, GitHub Actions" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman&theme=light" alt="VS Code, Visual Studio, IntelliJ IDEA, Postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,notion&theme=light" alt="Figma, Notion" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300"><strong>Cloud & Infrastructure</strong></td>
+    <td align="center" width="300"><strong>Monitoring</strong></td>
+    <td align="center" width="300"><strong>OS & API</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="42" height="42" />
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="42" height="42" />
+      <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" alt="Grafana, Prometheus" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="42" height="42" />
+    </td>
+  </tr>
+</table>
+</div>
 <br />
