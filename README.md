@@ -52,14 +52,13 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
     <td align="center" width="300"><strong>Web Server</strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" alt="PostgreSQL, MongoDB, Redis" />
+    <td align="center" nowrap>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" alt="PostgreSQL, MongoDB, Redis" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch&theme=light" alt="RabbitMQ, Elasticsearch" />
     </td>
-    <td align="center">
+    <td align="center" nowrap>
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
     </td>
   </tr>
@@ -91,18 +90,14 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
     <td align="center" width="300"><strong>OS & API</strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="42" height="42" />
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42" />
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="42" height="42" />
-      <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" />
+    <td align="center" nowrap>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="42" height="42" />&nbsp;<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42" />&nbsp;<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="42" height="42" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" alt="Grafana, Prometheus" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" />
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="42" height="42" />
+    <td align="center" nowrap>
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" />&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="42" height="42" />
     </td>
   </tr>
 </table>
