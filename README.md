@@ -13,27 +13,72 @@
 시스템 가시성을 확보하는 작업을 진행 중이며, 앞으로는 Terraform 등을 활용한 인프라 코드 관리와  
 Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지니어로 성장하고자 합니다.
 
-<h3 align="left">🎓 Education</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Experiences</h3>
 
-- 광주소프트웨어 마이스터고등학교`(2021.03 – 2024.01)`
+<details open>
+  <summary><strong>Work Experience</strong></summary>
 
-<h3 align="left">🏃🏻‍♂️ Training</h3>
+<br />
 
-- LG 유플러스 유레카 SW 교육과정`(2024.06 - 2024.12)`
+<details>
+  <summary>마스터웨이 (Masterway) - 백엔드 개발자 정규직 <code>2025.05 - ing</code></summary>
 
-<h3 align="left">💼 Work Experience</h3>
+<br />
 
-- 에티포스 (Ettifos) — 네트워크 엔지니어 현장실습생 `(2023.11 - 2024.01)`
-- 마스터웨이 (Masterway) - 백엔드 개발자 정규직 `(2025.05 - ing)`
+- 업무 및 프로젝트 기록: Notion 링크 추가 예정
 
+</details>
+
+<details>
+  <summary>에티포스 (Ettifos) - 네트워크 엔지니어 현장실습생 <code>2023.11 - 2024.01</code></summary>
+
+<br />
+
+- 현장실습 기록: Notion 링크 추가 예정
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>Training</strong></summary>
+
+<br />
+
+<details>
+  <summary>LG 유플러스 유레카 SW 교육과정 <code>2024.06 - 2024.12</code></summary>
+
+<br />
+
+- 학습 및 프로젝트 기록: Notion 링크 추가 예정
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>Education</strong></summary>
+
+<br />
+
+<details>
+  <summary>광주소프트웨어 마이스터고등학교 <code>2021.03 - 2024.01</code></summary>
+
+<br />
+
+- 학교 교육과정 및 학습 기록: Notion 링크 추가 예정
+
+</details>
+
+</details>
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Skills</h3>
 <div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="300"><strong>Languages</strong></td>
-    <td align="center" width="300"><strong>Backend Frameworks</strong></td>
-    <td align="center" width="300"><strong>Build</strong></td>
+    <td align="center" width="380"><strong>Languages</strong></td>
+    <td align="center" width="260"><strong>Backend Frameworks</strong></td>
+    <td align="center" width="260"><strong>Build</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -47,9 +92,9 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
     </td>
   </tr>
   <tr>
-    <td align="center" width="300"><strong>Database & Cache</strong></td>
-    <td align="center" width="300"><strong>Messaging & Search</strong></td>
-    <td align="center" width="300"><strong>Web Server</strong></td>
+    <td align="center" width="380"><strong>Database & Cache</strong></td>
+    <td align="center" width="260"><strong>Messaging & Search</strong></td>
+    <td align="center" width="260"><strong>Web Server</strong></td>
   </tr>
   <tr>
     <td align="center" nowrap>
@@ -67,11 +112,11 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tools</h3>
 <div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="300"><strong>Version Control & CI/CD</strong></td>
-    <td align="center" width="300"><strong>Development Tools</strong></td>
-    <td align="center" width="300"><strong>Design & Docs</strong></td>
+    <td align="center" width="420"><strong>Version Control & CI/CD</strong></td>
+    <td align="center" width="280"><strong>Development Tools</strong></td>
+    <td align="center" width="200"><strong>Design & Docs</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -85,13 +130,13 @@ Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지
     </td>
   </tr>
   <tr>
-    <td align="center" width="300"><strong>Cloud & Infrastructure</strong></td>
-    <td align="center" width="300"><strong>Monitoring</strong></td>
-    <td align="center" width="300"><strong>OS & API</strong></td>
+    <td align="center" width="420"><strong>Cloud & Infrastructure</strong></td>
+    <td align="center" width="280"><strong>Monitoring</strong></td>
+    <td align="center" width="200"><strong>OS & API</strong></td>
   </tr>
   <tr>
     <td align="center" nowrap>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="42" height="42" />&nbsp;<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42" />&nbsp;<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="42" height="42" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" alt="Grafana, Prometheus" />
