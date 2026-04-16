@@ -13,62 +13,49 @@
 시스템 가시성을 확보하는 작업을 진행 중이며, 앞으로는 Terraform 등을 활용한 인프라 코드 관리와  
 Kubernetes 도입을 통해 개발·운영 간 경계를 허무는 DevOps 엔지니어로 성장하고자 합니다.
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Experiences</h3>
+<h3 align="left">🔗 Experiences</h3>
 
 <details open>
   <summary><strong>Work Experience</strong></summary>
 
-<br />
-
-<details>
-  <summary>마스터웨이 (Masterway) - 백엔드 개발자 정규직 <code>2025.05 - ing</code></summary>
-
-<br />
-
-- 업무 및 프로젝트 기록: Notion 링크 추가 예정
-
-</details>
-
-<details>
-  <summary>에티포스 (Ettifos) - 네트워크 엔지니어 현장실습생 <code>2023.11 - 2024.01</code></summary>
-
-<br />
-
-- 현장실습 기록: Notion 링크 추가 예정
-
-</details>
+<table width="100%">
+  <tr>
+    <td width="160"><code>2025.05 - ing</code></td>
+    <td><strong>마스터웨이 (Masterway)</strong><br />백엔드 개발자 정규직</td>
+    <td width="220">🔗 Notion 링크 추가 예정</td>
+  </tr>
+  <tr>
+    <td width="160"><code>2023.11 - 2024.01</code></td>
+    <td><strong>에티포스 (Ettifos)</strong><br />네트워크 엔지니어 현장실습생</td>
+    <td width="220">🔗 Notion 링크 추가 예정</td>
+  </tr>
+</table>
 
 </details>
 
 <details>
   <summary><strong>Training</strong></summary>
 
-<br />
-
-<details>
-  <summary>LG 유플러스 유레카 SW 교육과정 <code>2024.06 - 2024.12</code></summary>
-
-<br />
-
-- 학습 및 프로젝트 기록: Notion 링크 추가 예정
-
-</details>
+<table width="100%">
+  <tr>
+    <td width="160"><code>2024.06 - 2024.12</code></td>
+    <td><strong>LG 유플러스 유레카 SW 교육과정</strong></td>
+    <td width="220">🔗 Notion 링크 추가 예정</td>
+  </tr>
+</table>
 
 </details>
 
 <details>
   <summary><strong>Education</strong></summary>
 
-<br />
-
-<details>
-  <summary>광주소프트웨어 마이스터고등학교 <code>2021.03 - 2024.01</code></summary>
-
-<br />
-
-- 학교 교육과정 및 학습 기록: Notion 링크 추가 예정
-
-</details>
+<table width="100%">
+  <tr>
+    <td width="160"><code>2021.03 - 2024.01</code></td>
+    <td><strong>광주소프트웨어 마이스터고등학교</strong></td>
+    <td width="220">🔗 Notion 링크 추가 예정</td>
+  </tr>
+</table>
 
 </details>
 
