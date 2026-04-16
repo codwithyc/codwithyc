@@ -38,7 +38,7 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
 - **광주소프트웨어 마이스터고등학교** `[2021.03 ~ 2024.01]` [🔗 Notion]()
   - 소프트웨어 개발 기초 및 전공 교육과정 이수
 
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Skills</h3>
+<h3 align="left">Skills</h3>
 
 <div align="center">
 <table width="900">
@@ -79,7 +79,7 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
 </table>
 </div>
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tools</h3>
+<h3 align="left">Tools</h3>
 
 <div align="center">
 <table width="900">
