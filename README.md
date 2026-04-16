@@ -65,9 +65,7 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
   </tr>
   <tr>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="36" height="36" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" alt="PostgreSQL, MongoDB, Redis" width="108" height="36" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="36" height="36" />&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" alt="PostgreSQL, MongoDB, Redis" width="108" height="36" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch&theme=light" alt="RabbitMQ, Elasticsearch" width="72" height="36" />
@@ -106,14 +104,13 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
   </tr>
   <tr>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="36" height="36" /><img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" width="36" height="36" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" />&nbsp;<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36" />&nbsp;<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="36" height="36" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" width="36" height="36" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" alt="Grafana, Prometheus" width="72" height="36" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" width="36" height="36" />
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" width="36" height="36" />&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="36" height="36" />
     </td>
   </tr>
 </table>
