@@ -22,19 +22,12 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
 <strong>Work Experience</strong>
 
 - **마스터웨이 (Masterway) - 백엔드 개발자 정규직** `[2025.05 ~ 2026.06]` [🔗 Notion]()
-  - Spring Boot 기반 백엔드 개발
-  - AWS, Docker, Nginx 기반 서비스 운영 및 배포
-
 - **에티포스 (Ettifos) - 네트워크 엔지니어 현장실습생** `[2023.11 ~ 2024.01]` [🔗 Notion]()
-  - 네트워크 엔지니어 현장실습
 
 <strong>Education & Training</strong>
 
 - **LG 유플러스 유레카 SW 교육과정** `[2024.06 ~ 2024.12]` [🔗 Notion]()
-  - 백엔드 Java 과정 학습 및 팀 프로젝트 진행
-
 - **광주소프트웨어 마이스터고등학교** `[2021.03 ~ 2024.01]` [🔗 Notion]()
-  - 소프트웨어 개발 기초 및 전공 교육과정 이수
 
 <h3 align="left">Skills</h3>
 
