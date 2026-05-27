@@ -21,7 +21,7 @@ JMeter 기준 1,000 ~ 2,000건 동시 요청 환경에서도 안정적으로 요
 
 <strong>Work Experience</strong>
 
-- **마스터웨이 (Masterway) - 백엔드 개발자 정규직** `[2025.05 ~ ing]` [🔗 Notion]()
+- **마스터웨이 (Masterway) - 백엔드 개발자 정규직** `[2025.05 ~ 2026.06]` [🔗 Notion]()
   - Spring Boot 기반 백엔드 개발
   - AWS, Docker, Nginx 기반 서비스 운영 및 배포
 
