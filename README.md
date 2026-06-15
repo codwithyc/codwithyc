@@ -13,7 +13,7 @@
 <strong>Work Experience</strong>
 
 - **마스터웨이 (Masterway) - 백엔드 개발자 정규직** `[2025.05 ~ 2026.06]` [🔗 Notion]()
- - **세움러닝 (Seumlearning) - 백엔드 개발자 정규직** `[2026.06 ~ ing]` [🔗 Notion]()
+  - **세움러닝 (Seumlearning) - 백엔드 개발자 정규직** `[2026.06 ~ ing]` [🔗 Notion]()
 - **에티포스 (Ettifos) - 네트워크 엔지니어 현장실습생** `[2023.11 ~ 2024.01]` [🔗 Notion]()
 
 <strong>Education & Training</strong>
