@@ -11,8 +11,8 @@
 <h3 align="left">Experiences</h3>
 
 <strong>Work Experience</strong>
-- 세움러닝 / 마스터웨이 (SeumLearning / Masterway) — Backend Developer, Full-time [2025.05 ~ 2026.06] 🔗 Notion
-- 에티포스 (Ettifos) — Network Engineer Intern [2023.11 ~ 2024.01] 🔗 Notion
+- **세움러닝 / 마스터웨이 (SeumLearning / Masterway)** — Backend Developer, Full-time [2025.05 ~ 2026.06] [🔗 Notion]()
+- **에티포스 (Ettifos) — Network Engineer Intern** [2023.11 ~ 2024.01] [🔗 Notion]()
 
 <strong>Education & Training</strong>
 
