@@ -19,6 +19,7 @@ AWS 기반 배포·모니터링·장애 대응을 경험했으며, Terraform과 
 <strong>Work Experience</strong>
 - **세움러닝 / 마스터웨이 (SeumLearning / Masterway)** — Backend Developer, Full-time [2025.05 ~ 2026.06] 
 - **에티포스 (Ettifos)** — Network Engineer Intern [2023.11 ~ 2024.01] 
+
 <strong>Education & Training</strong>
 
 - **LG 유플러스 유레카 SW 교육과정** [2024.06 ~ 2024.12] 
